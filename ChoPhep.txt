@@ -2,3 +2,4 @@ sangtacviet.vip
 facebook.com
 facebook.vn
 web.facebook.com
+graph.facebook.com
